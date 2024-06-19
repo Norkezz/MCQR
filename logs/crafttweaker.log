@@ -1,0 +1,188 @@
+[14:32:22.434][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[14:32:22.502][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[14:32:22.623][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin jeitweaker:common
+[14:32:22.671][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[14:32:22.674][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[14:32:22.677][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin mekanism:crt_plugin
+[14:32:22.739][INFO][JEITweaker]: Identified JeiTweaker plugin 'jeitweaker:forge': loading scheduled
+[14:32:22.741][INFO][JEITweaker]: Identified JeiTweaker plugin 'jeitweaker:common': loading scheduled
+[14:32:22.745][INFO][JEITweaker]: Identified JeiTweaker plugin 'mekanism:crt_jei': loading scheduled
+[14:32:22.760][INFO][JEITweaker]: JEITweaker Environmental Check: the combination of mods [jei] is fully supported
+[14:32:22.760][INFO][JEITweaker]: Running JeiTweaker plugin initialization
+[14:32:22.912][INFO][JEITweaker]: JeiTweaker plugin initialization completed successfully
+[14:32:25.359][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[14:32:25.360][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.27'
+[14:32:25.360][INFO][CraftTweaker]: - 'immersiveengineering' at version '1.20.1-10.0.0-169'
+[14:32:25.360][INFO][CraftTweaker]: - 'jeitweaker' at version '8.0.6'
+[14:32:25.360][INFO][CraftTweaker]: - 'mekanism' at version '10.4.8'
+[14:32:25.360][INFO][CraftTweaker]: - 'pneumaticcraft' at version '6.0.15+mc1.20.1'
+[14:32:45.149][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'mekanismcontent'
+[14:32:45.393][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[14:32:46.137][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[14:32:46.248][INFO][CraftTweaker-ZenCode]: Execution for loader 'mekanismcontent' completed successfully
+[14:32:46.248][INFO][Mekanism]: Registering 0 custom gases.
+[14:32:46.252][INFO][Mekanism]: Registering 0 custom infuse types.
+[14:32:46.262][INFO][Mekanism]: Registering 0 custom pigments.
+[14:32:46.266][INFO][Mekanism]: Registering 0 custom slurries.
+[14:32:46.670][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[14:32:46.691][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[14:32:46.691][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[14:32:46.703][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[14:33:07.333][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[14:33:07.352][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[14:33:07.355][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[14:33:07.362][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[14:33:08.164][INFO][CraftTweaker]: crafttweaker.reload.start
+[14:33:08.179][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[14:33:08.193][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[14:33:08.311][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[14:33:08.315][INFO][CraftTweaker-ZenCode]: Loading file 'Other.zs' with priority 0
+[14:33:08.318][INFO][CraftTweaker-ZenCode]: Loading file 'Vanilla.zs' with priority 0
+[14:33:08.318][INFO][CraftTweaker-ZenCode]: Loading file 'ae2.zs' with priority 0
+[14:33:08.318][INFO][CraftTweaker-ZenCode]: Loading file 'alexcaves.zs' with priority 0
+[14:33:08.318][INFO][CraftTweaker-ZenCode]: Loading file 'astra.zs' with priority 0
+[14:33:08.325][INFO][CraftTweaker-ZenCode]: Loading file 'immersiv.zs' with priority 0
+[14:33:08.326][INFO][CraftTweaker-ZenCode]: Loading file 'thermal.zs' with priority 0
+[14:33:08.390][INFO][CraftTweaker]: Removing 'create:mixing' recipes with output: '<item:createaddition:electrum_ingot>'
+[14:33:08.392][INFO][CraftTweaker]: Removing 'create:mixing' recipes with output: '<item:immersiveengineering:ingot_constantan>'
+[14:33:08.392][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:ostrum_plate>'
+[14:33:08.405][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:electrum_dust>'
+[14:33:08.409][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:dust_constantan>'
+[14:33:08.416][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:alexsmobs:blood_sprayer>'
+[14:33:08.424][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:alexsmobs:hemolymph_blaster>'
+[14:33:08.430][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:twilightforest:uncrafting_table>'
+[14:33:08.434][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:chunkloaders:single_chunk_loader>'
+[14:33:08.437][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:chunkloaders:basic_chunk_loader>'
+[14:33:08.440][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:chunkloaders:advanced_chunk_loader>'
+[14:33:08.442][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:chunkloaders:ultimate_chunk_loader>'
+[14:33:08.444][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:born_in_chaos_v1:darkwarblade>'
+[14:33:08.446][INFO][CraftTweaker]: Removing 'create:item_application' recipes with output: '<item:immersiveengineering:blastbrick_reinforced>'
+[14:33:08.446][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:minecraft:smithing_table>'
+[14:33:08.450][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:minecraft:blast_furnace>'
+[14:33:08.460][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:blast_furnace5' that outputs: '<item:minecraft:blast_furnace>'
+[14:33:08.460][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:electrumingot' that outputs: '<item:createaddition:electrum_ingot>'
+[14:33:08.460][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ae2:inscriber>'
+[14:33:08.465][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:ae2_1' that outputs: '<item:ae2:inscriber>'
+[14:33:08.465][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ae2:charger>'
+[14:33:08.467][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:ae2_2' that outputs: '<item:ae2:charger>'
+[14:33:08.468][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ae2:cell_component_1k>'
+[14:33:08.470][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:ae2_3' that outputs: '<item:ae2:cell_component_1k>'
+[14:33:08.471][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:steel_rod>'
+[14:33:08.473][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:iron_rod>'
+[14:33:08.475][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:coal_generator>'
+[14:33:08.476][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:desh_plate>'
+[14:33:08.478][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:etrionic_blast_furnace>'
+[14:33:08.480][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:needsiron1' that outputs: '<item:ad_astra:etrionic_blast_furnace>'
+[14:33:08.480][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:compressor>'
+[14:33:08.481][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:compressor1' that outputs: '<item:ad_astra:compressor>'
+[14:33:08.481][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:nasa_workbench>'
+[14:33:08.484][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:nasaworkbench' that outputs: '<item:ad_astra:nasa_workbench>'
+[14:33:08.484][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:carbonfiberhousing' that outputs: '<item:oldcraft:carbon_fiber_housing>'
+[14:33:08.484][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:engine_frame>'
+[14:33:08.485][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:engineframe' that outputs: '<item:ad_astra:engine_frame>'
+[14:33:08.485][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:oxygen_gear>'
+[14:33:08.487][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:oxygengear' that outputs: '<item:ad_astra:oxygen_gear>'
+[14:33:08.487][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:fan>'
+[14:33:08.488][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:fann' that outputs: '<item:ad_astra:fan>'
+[14:33:08.488][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:gas_tank>'
+[14:33:08.489][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:gastank' that outputs: '<item:ad_astra:gas_tank>'
+[14:33:08.489][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:large_gas_tank>'
+[14:33:08.490][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:largegastank' that outputs: '<item:ad_astra:large_gas_tank>'
+[14:33:08.490][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:fuel_refinery>'
+[14:33:08.491][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:fuelrefinery' that outputs: '<item:ad_astra:fuel_refinery>'
+[14:33:08.491][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:steel_tank>'
+[14:33:08.492][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:steeltank2' that outputs: '<item:ad_astra:steel_tank>'
+[14:33:08.492][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:desh_tank>'
+[14:33:08.493][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:deshtank3' that outputs: '<item:ad_astra:desh_tank>'
+[14:33:08.493][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:ostrum_tank>'
+[14:33:08.495][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:ostrumtank4' that outputs: '<item:ad_astra:ostrum_tank>'
+[14:33:08.495][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:ostrum_block>'
+[14:33:08.496][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:ostrumblock5' that outputs: '<item:ad_astra:ostrum_block>'
+[14:33:08.496][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:ostrum_engine>'
+[14:33:08.498][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:ostrumengine6' that outputs: '<item:ad_astra:ostrum_engine>'
+[14:33:08.498][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:calorite_tank>'
+[14:33:08.501][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:caloritetank6' that outputs: '<item:ad_astra:calorite_tank>'
+[14:33:08.501][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:redstone_acid_bucket>'
+[14:33:08.502][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:plate_lead>'
+[14:33:08.503][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:plate_iron>'
+[14:33:08.505][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:plate_aluminum>'
+[14:33:08.506][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:plate_copper>'
+[14:33:08.507][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:dust_electrum>'
+[14:33:08.508][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:component_iron>'
+[14:33:08.509][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:component_steel>'
+[14:33:08.510][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:stick_steel>'
+[14:33:08.511][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:stick_iron>'
+[14:33:08.512][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:plate_steel>'
+[14:33:08.512][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:dust_constantan>'
+[14:33:08.513][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:wire_copper>'
+[14:33:08.514][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:wire_electrum>'
+[14:33:08.515][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:wire_aluminum>'
+[14:33:08.516][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:wire_steel>'
+[14:33:08.517][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:wire_lead>'
+[14:33:08.518][INFO][CraftTweaker]: Removing 'blasting' recipes with output: '<tag:items:forge:ingots/steel>'
+[14:33:08.520][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:wirecutter>'
+[14:33:08.524][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:wirecutter_3' that outputs: '<item:immersiveengineering:wirecutter>'
+[14:33:08.524][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:manual>'
+[14:33:08.529][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:manual_1' that outputs: '<item:immersiveengineering:manual>'
+[14:33:08.529][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:cokebrick>'
+[14:33:08.533][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:cokebrick_2' that outputs: '<item:immersiveengineering:cokebrick> * 3'
+[14:33:08.534][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:blastbrick>'
+[14:33:08.536][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:cblastbrick_3' that outputs: '<item:immersiveengineering:blastbrick> * 3'
+[14:33:08.536][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:rs_engineering>'
+[14:33:08.539][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:plate_nickel>'
+[14:33:08.540][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:plate_electrum>'
+[14:33:08.542][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:rs_engineering_4' that outputs: '<item:immersiveengineering:rs_engineering> * 4'
+[14:33:08.543][INFO][CraftTweaker]: Removing 'blusunrize.immersiveengineering.api.crafting.IERecipeTypes$1@4c989d6f' recipes with output: '<item:immersiveengineering:ingot_constantan>'
+[14:33:08.543][INFO][CraftTweaker]: Removing 'blusunrize.immersiveengineering.api.crafting.IERecipeTypes$1@4c989d6f' recipes with output: '<item:immersiveengineering:ingot_electrum>'
+[14:33:08.544][INFO][CraftTweaker]: Adding 'immersiveengineering:arc_furnace' recipe, with name: 'crafttweaker:ingot_constantan' that outputs: '<item:immersiveengineering:ingot_constantan>'
+[14:33:08.544][INFO][CraftTweaker]: Adding 'immersiveengineering:metal_press' recipe, with name: 'crafttweaker:lpastic_sheets' that outputs: '<item:oldcraft:lpastic_sheets>'
+[14:33:08.544][INFO][CraftTweaker]: Adding 'immersiveengineering:metal_press' recipe, with name: 'crafttweaker:diamongears' that outputs: '<item:thermal:diamond_gear>'
+[14:33:08.544][INFO][CraftTweaker]: Adding 'immersiveengineering:arc_furnace' recipe, with name: 'crafttweaker:electruingot' that outputs: '<item:createaddition:electrum_ingot> * 2'
+[14:33:08.544][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:capacitor_mv>'
+[14:33:08.546][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:capacitorv' that outputs: '<item:immersiveengineering:capacitor_mv>'
+[14:33:08.546][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:blastbrick_reinforced>'
+[14:33:08.547][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:capacitorh' that outputs: '<item:immersiveengineering:capacitor_hv>'
+[14:33:08.547][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:reinforced4' that outputs: '<item:immersiveengineering:blastbrick_reinforced> * 8'
+[14:33:08.547][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:screwdriver>'
+[14:33:08.548][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:screwdriver1' that outputs: '<item:immersiveengineering:screwdriver>'
+[14:33:08.548][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:dynamo_stirling>'
+[14:33:08.549][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:dynamo_compression>'
+[14:33:08.550][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:dynamo_magmatic>'
+[14:33:08.551][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:dynamo_numismatic>'
+[14:33:08.552][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:dynamo_lapidary>'
+[14:33:08.552][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:dynamo_disenchantment>'
+[14:33:08.553][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:dynamo_gourmand>'
+[14:33:08.554][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:immersiveengineering:plate_constantan>'
+[14:33:08.555][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:energy_duct>'
+[14:33:08.556][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:fluid_duct>'
+[14:33:08.557][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:fluid_duct_windowed>'
+[14:33:08.559][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:rf_coil>'
+[14:33:08.560][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:rfcoil1' that outputs: '<item:thermal:rf_coil>'
+[14:33:08.561][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<tag:items:forge:gears>'
+[14:33:08.581][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:machine_frame>'
+[14:33:08.583][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:constantan_dust>'
+[14:33:08.585][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:constantan_ingot>'
+[14:33:08.586][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:lumium_ingot>'
+[14:33:08.587][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:invar_dust>'
+[14:33:08.588][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:invar_ingot>'
+[14:33:08.590][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:bronze_ingot>'
+[14:33:08.591][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:obsidian_glass>'
+[14:33:08.592][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:enderium_ingot>'
+[14:33:08.593][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:enderium_dust>'
+[14:33:08.594][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:electrum_ingot>'
+[14:33:08.595][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:machineframe2' that outputs: '<item:thermal:machine_frame>'
+[14:33:08.595][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:machine_pulverizer>'
+[14:33:08.596][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:machinepulverizer3' that outputs: '<item:thermal:machine_pulverizer>'
+[14:33:08.596][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:machine_furnace>'
+[14:33:08.597][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:machinefurnace4' that outputs: '<item:thermal:machine_furnace>'
+[14:33:08.597][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:machine_sawmill>'
+[14:33:08.598][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:machinesawmill5' that outputs: '<item:thermal:machine_sawmill>'
+[14:33:08.598][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:machine_smelter>'
+[14:33:08.599][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:machine_smelter6' that outputs: '<item:thermal:machine_smelter>'
+[14:33:08.599][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:wrench>'
+[14:33:08.599][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:wrench6' that outputs: '<item:thermal:wrench>'
+[14:33:08.600][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:thermal:redstone_servo>'
+[14:33:08.601][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:redservo' that outputs: '<item:thermal:redstone_servo>'
+[14:33:08.611][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[14:33:08.613][INFO][CraftTweaker]: crafttweaker.reload.complete
+[14:33:08.614][INFO][CraftTweaker]: This reload was made possible by Hooley and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
